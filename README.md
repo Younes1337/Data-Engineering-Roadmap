@@ -4,7 +4,7 @@
 
 📊 This roadmap provides a comprehensive guide to becoming a successful data engineer.
 
-![Generated Text](./Data Engineering roadmap.png)
+![Data Engineering Roadmap](./Data Engineering roadmap.png)
 
 </div>
 
@@ -31,5 +31,3 @@ For an interactive version of this roadmap, please check out the [Data Engineeri
 Now that you have an overview of the roadmap, it's time to embark on your data engineering journey! Each stage on the roadmap will provide you with specific goals, resources, and projects to help you progress.
 
 Feel free to contribute to this roadmap by creating pull requests or suggesting improvements. Let's together shape the future of data engineering! 🤝
-
-</div>
