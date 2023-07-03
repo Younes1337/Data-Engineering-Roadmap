@@ -4,7 +4,7 @@
 
 📊 This roadmap provides a comprehensive guide to becoming a successful data engineer.
 
-![Generated Text](https://placehold.it/400x200)
+![Generated Text]("./Data Engineering roadmap.png")
 
 </div>
 
