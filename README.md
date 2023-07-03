@@ -4,7 +4,7 @@
 
 📊 This roadmap provides a comprehensive guide to becoming a successful data engineer.
 
-![Generated Text]("./Data Engineering roadmap.png")
+![Generated Text](./Data Engineering roadmap.png)
 
 </div>
 
