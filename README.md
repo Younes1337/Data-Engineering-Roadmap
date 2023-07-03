@@ -24,7 +24,7 @@ The roadmap covers various tools and technologies that are essential for a data 
 
 ## 🌐 Interactive Version
 
-For an interactive version of this roadmap, please check out the [Data Engineering Roadmap]([https://example.com](https://whimsical.com/data-engineering-roadmap-CioxwsS3QggwM2ATWy9p9S)) 
+For an interactive version of this roadmap, please check out the [Interactive Data Engineering Roadmap]([(https://whimsical.com/data-engineering-roadmap-CioxwsS3QggwM2ATWy9p9S])) 
 where you can explore each stage in more detail.
 <img src="./Data Engineering roadmap.png" alt="Data Engineering Roadmap">
 
