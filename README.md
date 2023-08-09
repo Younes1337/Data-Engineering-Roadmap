@@ -24,7 +24,13 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="Apache Flink" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="Terraform" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50" />
 </p>
+
 
 
 ![Data Engineering Roadmap](DataTech.png)
