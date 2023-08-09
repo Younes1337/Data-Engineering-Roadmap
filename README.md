@@ -6,20 +6,16 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon S3" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" />
   <a href="https://cdnlogo.com/logo/data-version-control_134778.html">
     <img src="https://www.cdnlogo.com/logos/d/2/data-version-control.svg" width="50" height="50">
   </a>
   <a title="Jason Long, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Git-logo.svg">
     <img width="90" alt="Git-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png">
   </a>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/redisio/redisio-icon.svg" alt="Redis" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" />
