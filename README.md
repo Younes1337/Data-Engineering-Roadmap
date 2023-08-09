@@ -25,9 +25,9 @@
   <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="50" height="50" />
   <a title="Inkdryer, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AirflowLogo.png"><img width="90" alt="AirflowLogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/512px-AirflowLogo.png"></a>
   <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="Apache Flink" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" alt="Terraform" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+<a title="HashiCorp, MPL 2 &lt;https://www.mozilla.org/en-US/MPL/2.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Terraform_Logo.svg"><img width="90" alt="Terraform Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png"></a>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50" />
+  <a title="™/®The Apache Software Foundation, Apache License 2.0 &lt;http://www.apache.org/licenses/LICENSE-2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Apache_Flink_logo.svg"><img width="90" alt="Apache Flink logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Apache_Flink_logo.svg/512px-Apache_Flink_logo.svg.png"></a>
 </p>
 
 
