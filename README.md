@@ -15,9 +15,22 @@
   </a>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50" />
-  
-
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/redisio/redisio-icon.svg" alt="Redis" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQL" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="Apache NiFi" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="50" height="50" />
 </p>
+
 
 ![Data Engineering Roadmap](DataTech.png)
 
